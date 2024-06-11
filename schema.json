@@ -2,8 +2,8 @@
   "type": "component",
   "metadata": {},
   "schema": {
-    "name": "budibase-bubble-chart",
-    "friendlyName": "budibase-bubble-chart",
+    "name": "budibase-bubble-chart-2",
+    "friendlyName": "budibase-bubble-chart-2",
     "description": "Component to display a bubble chart",
     "icon": "GraphBubble",
     "settings": [
