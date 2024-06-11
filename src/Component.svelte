@@ -140,7 +140,7 @@
               options.series[index].data.push(
                 {x: xValue
                 ,y:element[yAxisField]
-                ,z:element[bubbleSizeField]});
+                ,z:element[bubbleSizeField]*5});
             }
           }
         } catch (Exception){
