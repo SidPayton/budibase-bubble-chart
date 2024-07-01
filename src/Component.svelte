@@ -79,6 +79,8 @@
     options.title = { text: chartTitle }
   }
   options.xaxis = { type: xAxisType }
+  type: xAxisType,
+  title: { text: xAxisTitle }
   if (minXAxis!=null){
     options.xaxis.min = minXAxis;
   }
