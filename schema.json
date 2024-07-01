@@ -72,6 +72,12 @@
         "name": "X axis definition",
         "settings": [
           {
+            "type": "string",
+            "key": "xAxisTitle",
+            "label": "X-Axis Title",
+            "placeholder": "Enter X-Axis Title"
+          },
+          {
             "type": "number",
             "label": "Minimum value of X axis",
             "key": "minXAxis"
