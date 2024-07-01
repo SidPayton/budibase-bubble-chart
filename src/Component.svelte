@@ -2,7 +2,7 @@
   import { getContext,afterUpdate } from "svelte"
   import { chart } from "svelte-apexcharts";
   import { merge } from 'lodash';
-  
+
   export let dataProvider //
   export let serieField //
   export let xAxisField // 
@@ -18,6 +18,7 @@
   export let minYAxis //
   export let maxYAxis //
   export let yAxisTitle //
+  export let xAxisTitle //
   export let yAxisTickAmount //
   export let displayValues //
   export let bubbleOpacity //
